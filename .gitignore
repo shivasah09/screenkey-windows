@@ -1,0 +1,15 @@
+# Build outputs and logs
+*.exe
+*.dll
+*.pdb
+ScreenKey-build.log
+ScreenKey-error.log
+bin/
+obj/
+.vs/
+*.user
+# User-specific files
+.env
+.env.*
+*.pfx
+*.key
